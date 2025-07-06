@@ -26,7 +26,7 @@ public class ExcelToDTOMapper {
             dto.setTemplate(getValue(row, 7));
             dto.setStatus(getValue(row, 8));
             dto.setTrackingStatus(getValue(row, 9));
-            dto.setEmailCount(getValue(row, 10));
+            dto.setEmailCount(getValue(row, 10).isEmpty() ? "0" : getValue(row, 10));
 
             emailList.add(dto);
         }

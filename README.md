@@ -200,8 +200,8 @@ Pull requests and ⭐ are welcome! 🥳
 
 ## 🔗 Reach Out
 
-- Email: `pushpajitnexus007@gmail.com`  
-- LinkedIn: `https://www.linkedin.com/in/pushpajit-biswas-6928b715b/`
+- 📧 [Email](mailto:pushpajitnexus007@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/pushpajit-biswas-6928b715b/)
 
 ---
 
